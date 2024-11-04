@@ -1,9 +1,13 @@
 # SUPERMARKET-MIS-in-C++ OOPs-Concept.
+-----------------------------------
 This Supermarket Management System is a C++ project developed using Object-Oriented Programming (OOPs) concepts. The system provides an efficient and user-friendly solution for managing various supermarket operations, including inventory management, billing, and customer information.
+
 Overview
+--------
 This Supermarket Management System is a C++ project developed using Object-Oriented Programming (OOPs) concepts. The system provides an efficient and user-friendly solution for managing various supermarket operations, including inventory management, billing, and customer information.
 
 Features
+--------
 Product Management: Add, update, and delete products from the supermarket inventory.
 Billing System: Generate itemized bills for customers with detailed pricing and discounts.
 Installation
@@ -25,6 +29,6 @@ License
 Feel free to use, modify, and distribute the code for personal or commercial purposes.
 
 Author
-This Supermarket Management System is created and maintained by Narayan Pandey.
+This Supermarket Management System is created and maintained by Adam.
 
 Happy Coding! 😊
